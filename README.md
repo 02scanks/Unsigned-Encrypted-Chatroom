@@ -28,5 +28,14 @@ This project implements a chat application using SignalR with end-to-end encrypt
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/signalr-encrypted-chat.git
-   cd signalr-encrypted-chat
+   git clone https://github.com/02scanks/Unsigned-Encrypted-Chatroom.git
+
+### Screenhots
+![Screenshot 2024-08-06 130127](https://github.com/user-attachments/assets/613b95a0-2f17-4755-b6c7-806400524010)
+
+![Screenshot 2024-08-06 130349](https://github.com/user-attachments/assets/ac86a7c5-d97e-49d3-8ad4-17cc545b8d30)
+
+![Screenshot 2024-08-06 130417](https://github.com/user-attachments/assets/be52d895-7a88-43c5-80b4-6ab692587d74)
+
+
+
